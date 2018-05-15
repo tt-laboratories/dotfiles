@@ -1,1 +1,3 @@
-# dotfiles
+# dotfiles 🚀
+
+Contains various dotfiles.
