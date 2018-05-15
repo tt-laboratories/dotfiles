@@ -1,0 +1,18 @@
+require: rubocop-rspec
+
+AllCops:
+  Exclude:
+    - db/**/*
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+
+Layout/IndentationConsistency:
+  EnforcedStyle: rails
