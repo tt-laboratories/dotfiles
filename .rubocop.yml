@@ -19,4 +19,4 @@ Layout/IndentationConsistency:
   EnforcedStyle: rails
   
 Style/ClassAndModuleChildren:
-  EnforcedStyle: compact
+  Enabled: false
