@@ -17,3 +17,6 @@ Metrics/BlockLength:
 
 Layout/IndentationConsistency:
   EnforcedStyle: rails
+  
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
