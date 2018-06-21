@@ -20,3 +20,6 @@ Layout/IndentationConsistency:
   
 Style/ClassAndModuleChildren:
   Enabled: false
+
+RSpec/DescribedClass:
+  Enabled: false
