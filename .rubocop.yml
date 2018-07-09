@@ -23,3 +23,12 @@ Style/ClassAndModuleChildren:
 
 RSpec/DescribedClass:
   Enabled: false
+
+Style/WordArray:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
