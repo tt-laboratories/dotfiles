@@ -17,13 +17,13 @@ Metrics/BlockLength:
 
 Layout/IndentationConsistency:
   EnforcedStyle: rails
-  
+
 Style/ClassAndModuleChildren:
   Enabled: false
 
 RSpec/DescribedClass:
   Enabled: false
-  
+
 Style/WordArray:
   EnforcedStyle: brackets
 
@@ -32,4 +32,3 @@ Style/SymbolArray:
 
 Style/NumericLiterals:
   Enabled: false
-  
