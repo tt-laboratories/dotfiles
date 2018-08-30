@@ -4,6 +4,7 @@ AllCops:
   Exclude:
     - db/**/*
     - vendor/**/*
+    - config/environments/*
 
 Style/Documentation:
   Enabled: false
