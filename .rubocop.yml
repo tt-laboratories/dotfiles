@@ -33,3 +33,6 @@ Style/SymbolArray:
 
 Style/NumericLiterals:
   Enabled: false
+
+Metrics/BlockLength:
+  ExcludedMethods: ['describe', 'context']
