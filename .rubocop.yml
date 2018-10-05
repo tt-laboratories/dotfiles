@@ -35,4 +35,5 @@ Style/NumericLiterals:
   Enabled: false
 
 Metrics/BlockLength:
-  ExcludedMethods: ['describe', 'context', 'FactoryBot.define', 'factory']
+  Exclude:
+    - spec/**/*
