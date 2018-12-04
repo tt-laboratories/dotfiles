@@ -37,3 +37,7 @@ Style/NumericLiterals:
 Metrics/BlockLength:
   Exclude:
     - spec/**/*
+    
+RSpec/DescribeClass:
+  Exclude:
+    - spec/features/**/*
