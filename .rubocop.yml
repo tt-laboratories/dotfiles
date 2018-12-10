@@ -15,6 +15,7 @@ Metrics/LineLength:
 Metrics/BlockLength:
   Exclude:
     - spec/**/*
+    - config/routes.rb
 
 Layout/IndentationConsistency:
   EnforcedStyle: rails
@@ -33,10 +34,6 @@ Style/SymbolArray:
 
 Style/NumericLiterals:
   Enabled: false
-
-Metrics/BlockLength:
-  Exclude:
-    - spec/**/*
     
 RSpec/DescribeClass:
   Exclude:
