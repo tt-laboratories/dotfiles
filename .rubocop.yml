@@ -38,3 +38,6 @@ Style/NumericLiterals:
 RSpec/DescribeClass:
   Exclude:
     - spec/features/**/*
+
+RSpec/NestedGroups:
+  Max: 4
