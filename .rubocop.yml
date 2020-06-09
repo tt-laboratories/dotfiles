@@ -5,6 +5,7 @@ AllCops:
     - db/**/*
     - vendor/**/*
     - config/environments/*
+  NewCops: enable
 
 Style/Documentation:
   Enabled: false
