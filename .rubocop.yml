@@ -45,3 +45,6 @@ RSpec/NestedGroups:
 
 RSpec/MultipleMemoizedHelpers:
   Enabled: false
+  
+RSpec/FilePath:
+  Enabled: false
