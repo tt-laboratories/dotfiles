@@ -48,6 +48,9 @@ RSpec/MultipleMemoizedHelpers:
   
 RSpec/FilePath:
   Enabled: false
+
+RSpec/FactoryBot/SyntaxMethods:
+   Enabled: false
   
 Lint/MissingSuper:
   Enabled: false
