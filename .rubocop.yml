@@ -13,6 +13,9 @@ Style/Documentation:
 Layout/LineLength:
   Max: 120
 
+Metrics/ClassLength:
+  Max: 130
+
 Metrics/BlockLength:
   Exclude:
     - spec/**/*
