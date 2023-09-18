@@ -54,3 +54,7 @@ FactoryBot/SyntaxMethods:
   
 Lint/MissingSuper:
   Enabled: false
+
+RSpec/SpecFilePathFormat:
+  Enabled: false
+
