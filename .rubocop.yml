@@ -49,10 +49,7 @@ RSpec/NestedGroups:
 RSpec/MultipleMemoizedHelpers:
   Enabled: false
   
-RSpec/FilePath:
-  Enabled: false
-
-RSpec/FactoryBot/SyntaxMethods:
+FactoryBot/SyntaxMethods:
    Enabled: false
   
 Lint/MissingSuper:
