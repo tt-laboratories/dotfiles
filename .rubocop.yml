@@ -48,9 +48,9 @@ RSpec/NestedGroups:
 
 RSpec/MultipleMemoizedHelpers:
   Enabled: false
-  
-RSpec/FactoryBot:
-   Enabled: false
+
+FactoryBot/SyntaxMethods:
+  Enabled: false
   
 Lint/MissingSuper:
   Enabled: false
