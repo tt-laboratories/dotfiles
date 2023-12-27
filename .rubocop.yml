@@ -58,3 +58,5 @@ Lint/MissingSuper:
 RSpec/FilePath:
   Enabled: false
 
+RSpec/SpecFilePathFormat:
+  Enabled: false
