@@ -38,7 +38,7 @@ Style/SymbolArray:
 
 Style/NumericLiterals:
   Enabled: false
-    
+
 RSpec/DescribeClass:
   Exclude:
     - spec/features/**/*
@@ -49,17 +49,11 @@ RSpec/NestedGroups:
 RSpec/MultipleMemoizedHelpers:
   Enabled: false
 
-FactoryBot/SyntaxMethods:
-  Enabled: false
-  
 Lint/MissingSuper:
-  Enabled: false
-  
-RSpec/SpecFilePathFormat:
-  Enabled: false
-  
-RSpec/SpecFilePathSuffix:
   Enabled: false
 
 RSpec/SpecFilePathFormat:
+  Enabled: false
+
+RSpec/SpecFilePathSuffix:
   Enabled: false
