@@ -57,3 +57,6 @@ RSpec/SpecFilePathFormat:
 
 RSpec/SpecFilePathSuffix:
   Enabled: false
+
+FactoryBot/SyntaxMethods:
+  Enabled: false
