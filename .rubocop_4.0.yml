@@ -1,0 +1,59 @@
+plugins: rubocop-rspec
+
+AllCops:
+  Exclude:
+    - db/**/*
+    - vendor/**/*
+    - config/environments/*
+  NewCops: enable
+
+Style/Documentation:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 120
+
+Metrics/ClassLength:
+  Max: 130
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+    - config/routes.rb
+
+Layout/IndentationConsistency:
+  EnforcedStyle: indented_internal_methods
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+RSpec/DescribedClass:
+  Enabled: false
+
+Style/WordArray:
+  EnforcedStyle: brackets
+
+Style/SymbolArray:
+  EnforcedStyle: brackets
+
+Style/NumericLiterals:
+  Enabled: false
+
+RSpec/DescribeClass:
+  Exclude:
+    - spec/features/**/*
+
+RSpec/NestedGroups:
+  Max: 4
+
+RSpec/MultipleMemoizedHelpers:
+  Enabled: false
+
+Lint/MissingSuper:
+  Enabled: false
+
+RSpec/SpecFilePathFormat:
+  Enabled: false
+
+Gemspec/RequiredRubyVersion:
+  Enabled: false
