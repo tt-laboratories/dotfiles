@@ -57,3 +57,10 @@ RSpec/SpecFilePathFormat:
 
 Gemspec/RequiredRubyVersion:
   Enabled: false
+
+Metrics/BlockLength:
+  Exclude:
+    - 'config/**/*'
+    
+FactoryBot/SyntaxMethods:
+  Enabled: false
