@@ -19,7 +19,7 @@ Metrics/ClassLength:
 Metrics/BlockLength:
   Exclude:
     - spec/**/*
-    - config/routes.rb
+    - config/**/*
 
 Layout/IndentationConsistency:
   EnforcedStyle: indented_internal_methods
